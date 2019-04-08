@@ -1,0 +1,21 @@
+﻿[¦¦¦                    ] / {IpLoggerRat}-IpLoggerRat.exe Packing files.``
+[¦¦¦¦¦¦¦                ] - {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+[¦¦¦¦¦¦¦¦¦¦¦¦           ] \ {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+[¦¦¦¦¦¦¦¦¦¦¦¦¦¦         ] | {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+[¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦      ] / {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+[¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦   ] - {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+[¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ ] \ {IpLoggerRat}-IpLoggerRat.exe Packing files..``
+Successfully downloaded {IpLoggerRat}-IpLoggerRat.exe``
+Injecting IpLoggerRat.   |``
+Injecting IpLoggerRat..  /``
+Injecting IpLoggerRat... -``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+Successfully Injected {IpLoggerRat}-IpLoggerRat.exe into {user}``
+IP - 188.29.165.18
+IP - 188.29.165.18
+
+Ready to ddos.

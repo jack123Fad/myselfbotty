@@ -1,0 +1,36 @@
+Loading Discord.Py...
+Loading Discord.Py....
+Loading Discord.Py.....
+Loading Discord.Py.....
+Loading Discord.Py {10]
+Loading Discord.Py {30]
+Loading Discord.Py 100
+ready!
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >
+Welcome to fadexbot1.0 type cmds for commands >
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >C
+Welcome to fadexbot1.0 type cmds for commands >CM
+Welcome to fadexbot1.0 type cmds for commands >CMDS
+Commands - ping >_
+Commands - ping >_
+Commands - ping >
+Commands - ping >
+Commands - ping >P
+Commands - ping >P_
+Commands - ping >P
+Commands - ping >PI
+Commands - ping >PIN
+Commands - ping >PING
+Commands - ping >PING Ping (100ms)
+Commands - ping >PING Ping (100ms
+
+
+
+
+
+
+
