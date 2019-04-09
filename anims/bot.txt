@@ -1,10 +1,21 @@
+0.5
+Loading Discord.Py.
+Loading Discord.Py..
 Loading Discord.Py...
 Loading Discord.Py....
-Loading Discord.Py.....
-Loading Discord.Py.....
-Loading Discord.Py {10]
-Loading Discord.Py {30]
-Loading Discord.Py 100
+Loading Discord.Py [|]
+Loading Discord.Py [|||||]
+Loading Discord.Py [|||||||]
+Loading Discord.Py [|||||||||||||||||||||]
+Loading Git.Py.
+Loading Git.Py..
+Loading Git.Py...
+Loading Git.Py....
+Loading Git.Py [|]
+Loading Git.Py [|||||]
+Loading Git.Py [|||||||]
+Loading Git.Py [|||||||||||||||||||||]
+
 ready!
 Welcome to fadexbot1.0 type cmds for commands >_
 Welcome to fadexbot1.0 type cmds for commands >_
@@ -15,6 +26,17 @@ Welcome to fadexbot1.0 type cmds for commands >_
 Welcome to fadexbot1.0 type cmds for commands >C
 Welcome to fadexbot1.0 type cmds for commands >CM
 Welcome to fadexbot1.0 type cmds for commands >CMDS
+Welcome to fadexbot1.0 type cmds for commands >CM
+Welcome to fadexbot1.0 type cmds for commands >C
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >
+Welcome to fadexbot1.0 type cmds for commands >
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >_
+Welcome to fadexbot1.0 type cmds for commands >c
+Welcome to fadexbot1.0 type cmds for commands >cm
+Welcome to fadexbot1.0 type cmds for commands >cmds
 Commands - ping >_
 Commands - ping >_
 Commands - ping >
