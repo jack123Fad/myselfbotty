@@ -31,16 +31,11 @@ Welcome to fadexbot1.0 type cmds for commands >C
 Welcome to fadexbot1.0 type cmds for commands >_
 Welcome to fadexbot1.0 type cmds for commands >_
 Welcome to fadexbot1.0 type cmds for commands >
-Welcome to fadexbot1.0 type cmds for commands >
-Welcome to fadexbot1.0 type cmds for commands >_
-Welcome to fadexbot1.0 type cmds for commands >_
 Welcome to fadexbot1.0 type cmds for commands >c
 Welcome to fadexbot1.0 type cmds for commands >cm
 Welcome to fadexbot1.0 type cmds for commands >cmds
 Commands - ping >_
 Commands - ping >_
-Commands - ping >
-Commands - ping >
 Commands - ping >P
 Commands - ping >P_
 Commands - ping >P
@@ -48,7 +43,7 @@ Commands - ping >PI
 Commands - ping >PIN
 Commands - ping >PING
 Commands - ping >PING Ping (100ms)
-Commands - ping >PING Ping (100ms
+Commands - ping >PING Ping (100ms)
 
 
 
